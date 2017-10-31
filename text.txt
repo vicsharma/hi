@@ -1,1 +1,1 @@
-Hello. this is a simple text file and i am going to push it.
+Hi. this is a simple text file and i am going to push it.
